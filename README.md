@@ -17,6 +17,10 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="Tailwind CSS" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#" />
 </p>
 
@@ -24,20 +28,12 @@
 
 ## 📌 About This Profile
 
-- 🌱 I’m currently learning **HTML, CSS, and C#**
+- 🌱 I’m currently learning **HTML, CSS, Tailwind CSS, React, and C#**
 - 💡 Interested in **web development** and **software development**
 - 🎯 My goal is to keep evolving and building useful projects
 
 ---
 
-## 👀 Visitors
-
 <p align="center">
-  <img src="https://profile-counter.glitch.me/ChrystianSpereira/count.svg?" alt="Visitor Count" />
-</p>
-
----
-
-<p align="center">
-  Thanks for visiting my profile.
+  Thanks for visiting my profile 💙
 </p>
